@@ -2,7 +2,7 @@
 
 How to use it?
  - Install Python 3.9 **(ADD TO PATH)**
- - Enter ```pip install clock```
+ - Enter ```pip install time```
  - Enter ```pip install keyboard```
  - To run enter ```python main.py```
  - After this you have 5 secs, to enter on text field
